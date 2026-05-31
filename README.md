@@ -48,6 +48,7 @@ actions:
 | **Security** | motion-detect, door-sensor, camera-patrol |
 | **Agriculture** | soil-moisture, greenhouse-climate, irrigation-control |
 | **Aquaculture** | aquaculture-monitoring, pond-health, water-quality |
+| **Cold Chain** | cold-chain-compliance, refrigerated-transport, storage-audit |
 | **Industrial** | vibration-analysis, predictive-maintenance, energy-audit |
 | **Home** | elder-care, pet-monitor, plant-watering |
 | **DevOps** | server-health, log-watcher, deploy-notifier |
